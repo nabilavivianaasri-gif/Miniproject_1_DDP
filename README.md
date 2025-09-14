@@ -122,3 +122,10 @@ jika user memilih tidak maka program akan menampilkan tulisan "transaksi selesai
 
 jika user tidak memilih ya atau tidak maka program akan menulis "TERIMAKASIH SELAMAT MENIKMATI PERJALANAN"
 maka pemesanan tiket selesai
+
+# OUTPUT
+
+
+
+<img width="1511" height="906" alt="OUTPUT" src="https://github.com/user-attachments/assets/78504da2-f2e7-4999-bf0d-c7cca18f057b" />
+
