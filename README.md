@@ -98,6 +98,8 @@ jika tidak = maka selesai dan otomatis keluar karna exit(yang berarti keluar )
 
 program akan mencocokkan input dengan rute yang ada 
 
+jika user menginput kota yang tidak ada didalam list maka program menampilkan "rute tidak tersedia" lalu keluar
+
 program akan menanyakan nama pemesan tiket
 
 program akan menampilkan harga tiket untuk tujuan yang anda pilih
@@ -126,6 +128,34 @@ maka pemesanan tiket selesai
 # OUTPUT
 
 
-
+- # berikut adalah output lengkap
 <img width="1511" height="906" alt="OUTPUT" src="https://github.com/user-attachments/assets/78504da2-f2e7-4999-bf0d-c7cca18f057b" />
+
+
+
+
+- # berikut adalah output jika hanya ingin melihat rute tidak memesan tiket
+<img width="1499" height="391" alt="Screenshot (117)" src="https://github.com/user-attachments/assets/57fce06a-d24e-460f-a900-8838ed2bf1b5" />
+
+
+
+
+- # berikut adalah output jika user menginput kota yang tidak ada di list rute
+<img width="1516" height="288" alt="Screenshot (116)" src="https://github.com/user-attachments/assets/08f7e2d2-f9c3-403d-9b85-a9052e3b13fe" />
+
+
+
+
+- # berikut adalah output jika user tidak ingin melihat detail tiket
+<img width="1227" height="185" alt="Screenshot (119)" src="https://github.com/user-attachments/assets/8f5fb6eb-a78d-4517-ae3c-eebc07b65c3c" />
+
+
+
+
+
+
+
+
+
+
 
